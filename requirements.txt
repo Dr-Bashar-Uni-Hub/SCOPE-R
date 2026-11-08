@@ -1,0 +1,4 @@
+# Solvers, tests, benchmarks and analysis: Python >= 3.10 standard library only.
+# Optional, only for literature_screening/phase125/merge.py and screen.py (reading Scopus CSV / WoS XLS exports):
+pandas>=2.0
+xlrd>=2.0

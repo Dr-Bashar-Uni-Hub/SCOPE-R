@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SCOPE-R: certificates and limits for exact replanning of constrained diagnostic test strategies"
+authors:
+  - family-names: "ALHAJAHMAD"
+    given-names: "Bashar"
+repository-code: "https://github.com/Dr-Bashar-Uni-Hub/SCOPE-R"
+license: MIT
+version: "1.5.0-IJAR"
+date-released: "2026-11-08"
