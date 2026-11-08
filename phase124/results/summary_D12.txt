@@ -1,0 +1,6 @@
+heart_D12_overlap: streams 7, exact checks 210
+  MBR vs bnb      median   4.70x  CI [3.69, 5.13]  wins 7/7
+  MBR vs exh      median   3.76x  CI [3.13, 4.19]  wins 7/7
+  MBR vs closure  median  48.52x  CI [43.70, 86.57]  wins 7/7
+  expansions BnB/MBR aggregate 6.79; zero-expansion MBR updates 14/210
+  median ms per update: {'mbr': 11.4, 'bnb': 86.4, 'exh': 81.33, 'closure': 239.23}
