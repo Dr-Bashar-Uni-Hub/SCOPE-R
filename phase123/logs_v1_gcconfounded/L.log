@@ -1,0 +1,11 @@
+L balanced 0 mbr=0.051s bnb=0.151s exh=2.222s pomdp=4.909s closure=4.534s lazy115=4.203s
+L balanced 1 mbr=0.033s bnb=0.081s exh=1.547s pomdp=4.153s closure=3.441s lazy115=3.207s
+L balanced 2 mbr=0.094s bnb=0.406s exh=4.189s pomdp=5.844s closure=5.623s lazy115=6.278s
+L balanced 3 mbr=0.107s bnb=0.375s exh=2.404s pomdp=4.898s closure=3.660s lazy115=3.875s
+L balanced 4 mbr=0.043s bnb=0.095s exh=3.328s pomdp=5.620s closure=6.728s lazy115=7.530s
+L cost_dominated 0 mbr=0.129s bnb=0.290s exh=3.163s pomdp=5.527s closure=6.028s lazy115=7.030s
+L cost_dominated 1 mbr=0.137s bnb=0.312s exh=2.243s pomdp=4.962s closure=2.445s lazy115=2.777s
+L cost_dominated 2 mbr=0.061s bnb=0.142s exh=2.043s pomdp=4.474s closure=2.882s lazy115=2.715s
+L cost_dominated 3 mbr=0.049s bnb=0.089s exh=1.869s pomdp=4.523s closure=2.513s lazy115=2.860s
+L cost_dominated 4 mbr=0.091s bnb=0.267s exh=1.958s pomdp=4.507s closure=2.661s lazy115=3.098s
+DONE L exact checks 240 reference exh

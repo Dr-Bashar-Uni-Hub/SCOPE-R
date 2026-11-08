@@ -1,0 +1,9 @@
+XL balanced 0 mbr=0.157s bnb=0.598s exh=12.278s closure=15.486s
+XL balanced 1 mbr=0.069s bnb=0.146s exh=6.747s closure=14.491s
+XL balanced 2 mbr=0.153s bnb=0.693s exh=11.620s closure=19.683s
+XL balanced 3 mbr=1.021s bnb=0.419s exh=12.804s closure=23.806s
+XL cost_dominated 0 mbr=0.130s bnb=0.313s exh=9.967s closure=16.354s
+XL cost_dominated 1 mbr=0.069s bnb=0.240s exh=7.818s closure=12.495s
+XL cost_dominated 2 mbr=0.146s bnb=0.251s exh=12.031s closure=15.478s
+XL cost_dominated 3 mbr=0.095s bnb=0.210s exh=9.629s closure=15.216s
+DONE XL exact checks 192 reference exh

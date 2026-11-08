@@ -1,0 +1,4 @@
+L balanced 0 mbr=0.056s bnb=0.161s exh=2.204s pomdp=4.676s closure=3.485s lazy115=3.165s
+L balanced 1 mbr=0.039s bnb=0.102s exh=1.615s pomdp=3.990s closure=2.857s lazy115=2.592s
+L balanced 2 mbr=0.099s bnb=0.448s exh=3.470s pomdp=5.649s closure=4.645s lazy115=4.358s
+L balanced 3 mbr=0.107s bnb=0.356s exh=2.211s pomdp=4.341s closure=2.415s lazy115=2.478s
