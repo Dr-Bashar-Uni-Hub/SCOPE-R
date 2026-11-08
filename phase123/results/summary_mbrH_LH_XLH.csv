@@ -1,0 +1,24 @@
+tag,regime,baseline,sequences,median_speedup_of_MBR,ci_lo,ci_hi,MBR_wins
+LH,balanced,bnbH,5,2.624,2.007,4.298,5
+LH,balanced,mbr,5,0.734,0.72,0.831,0
+LH,balanced,bnb,5,2.079,1.652,2.975,5
+LH,balanced,exh,5,37.669,11.698,59.832,5
+LH,balanced,bnbH_expansions(update-level),120,6.798,,,aggregate ratio 4.24; zero-expansion updates 48/120
+LH,cost_dominated,bnbH,5,2.013,1.613,2.27,5
+LH,cost_dominated,mbr,5,0.723,0.705,1.008,1
+LH,cost_dominated,bnb,5,1.675,1.199,2.183,5
+LH,cost_dominated,exh,5,17.268,8.059,25.284,5
+LH,cost_dominated,bnbH_expansions(update-level),120,2.773,,,aggregate ratio 2.20; zero-expansion updates 34/120
+LH,all,bnbH,10,2.17,1.946,2.817,10
+LH,all,mbr,10,0.729,0.715,0.831,1
+LH,all,bnb,10,1.942,1.559,2.268,10
+LH,all,exh,10,20.058,13.291,37.896,10
+LH,all,bnbH_expansions(update-level),240,4.479,,,aggregate ratio 2.88; zero-expansion updates 82/240
+XLH,balanced,bnbH,4,3.279,2.565,4.292,4
+XLH,balanced,mbr,4,0.773,0.699,0.933,0
+XLH,balanced,bnb,4,2.583,1.821,3.416,4
+XLH,balanced,bnbH_expansions(update-level),96,7.56,,,aggregate ratio 4.73; zero-expansion updates 34/96
+XLH,all,bnbH,4,3.279,2.565,4.292,4
+XLH,all,mbr,4,0.773,0.699,0.933,0
+XLH,all,bnb,4,2.583,1.821,3.416,4
+XLH,all,bnbH_expansions(update-level),96,7.56,,,aggregate ratio 4.73; zero-expansion updates 34/96

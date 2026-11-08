@@ -1,0 +1,16 @@
+{
+ "argv": [
+  "bench.py",
+  "L",
+  "20",
+  "28",
+  "5",
+  "24",
+  "mbr,bnb,exh,pomdp,closure,lazy115"
+ ],
+ "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+ "platform": "Linux-6.18.44-fc-v310-x86_64-with-glibc2.39",
+ "processor": "x86_64",
+ "checks": 24,
+ "reference": "exh"
+}

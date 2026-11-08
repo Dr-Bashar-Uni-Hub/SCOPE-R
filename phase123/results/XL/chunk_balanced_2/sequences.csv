@@ -1,0 +1,2 @@
+tag,n,m,regime,seed,steps,mbr_total_ns,bnb_total_ns,exh_total_ns,closure_total_ns
+XL,24,36,balanced,2,24,163561599,688229586,11844399218,15424097307

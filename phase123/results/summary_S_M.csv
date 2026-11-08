@@ -1,0 +1,43 @@
+tag,regime,baseline,sequences,median_speedup_of_MBR,ci_lo,ci_hi,MBR_wins
+S,balanced,bnb,6,2.126,1.644,2.396,6
+S,balanced,exh,6,7.005,5.684,9.086,6
+S,balanced,pomdp,6,6.814,5.557,9.235,6
+S,balanced,fresh121,6,17.541,14.326,23.919,6
+S,balanced,closure,6,9.27,7.774,12.054,6
+S,balanced,lazy115,6,8.633,7.015,11.03,6
+S,balanced,bnb_expansions(update-level),144,7.188,,,aggregate ratio 3.63; zero-expansion updates 57/144
+S,cost_dominated,bnb,6,1.683,1.386,1.936,6
+S,cost_dominated,exh,6,6.059,5.43,8.274,6
+S,cost_dominated,pomdp,6,5.811,5.437,7.782,6
+S,cost_dominated,fresh121,6,15.591,13.889,21.581,6
+S,cost_dominated,closure,6,6.795,4.042,8.987,6
+S,cost_dominated,lazy115,6,6.4,3.914,8.513,6
+S,cost_dominated,bnb_expansions(update-level),144,2.479,,,aggregate ratio 2.36; zero-expansion updates 34/144
+S,all,bnb,12,1.91,1.518,2.126,12
+S,all,exh,12,6.643,5.851,7.602,12
+S,all,pomdp,12,6.492,5.603,7.584,12
+S,all,fresh121,12,16.249,15.038,20.09,12
+S,all,closure,12,8.047,6.795,9.845,12
+S,all,lazy115,12,7.488,6.4,9.149,12
+S,all,bnb_expansions(update-level),288,3.357,,,aggregate ratio 2.87; zero-expansion updates 91/288
+M,balanced,bnb,6,2.56,2.047,3.058,6
+M,balanced,exh,6,17.569,16.085,32.838,6
+M,balanced,pomdp,6,19.412,17.325,35.159,6
+M,balanced,fresh121,6,49.501,43.724,92.637,6
+M,balanced,closure,6,23.22,22.6,38.531,6
+M,balanced,lazy115,6,22.26,21.578,37.839,6
+M,balanced,bnb_expansions(update-level),144,5.345,,,aggregate ratio 3.52; zero-expansion updates 56/144
+M,cost_dominated,bnb,6,2.093,1.948,2.478,6
+M,cost_dominated,exh,6,18.709,13.532,26.465,6
+M,cost_dominated,pomdp,6,20.258,14.209,27.085,6
+M,cost_dominated,fresh121,6,51.763,37.485,71.929,6
+M,cost_dominated,closure,6,20.393,15.568,26.731,6
+M,cost_dominated,lazy115,6,19.562,14.595,25.989,6
+M,cost_dominated,bnb_expansions(update-level),144,3.128,,,aggregate ratio 3.07; zero-expansion updates 52/144
+M,all,bnb,12,2.249,2.005,2.649,12
+M,all,exh,12,17.569,16.348,21.149,12
+M,all,pomdp,12,19.412,17.325,22.573,12
+M,all,fresh121,12,50.126,45.4,56.716,12
+M,all,closure,12,22.841,20.393,25.021,12
+M,all,lazy115,12,21.939,19.562,24.386,12
+M,all,bnb_expansions(update-level),288,4.292,,,aggregate ratio 3.27; zero-expansion updates 108/288

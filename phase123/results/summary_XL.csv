@@ -1,0 +1,13 @@
+tag,regime,baseline,sequences,median_speedup_of_MBR,ci_lo,ci_hi,MBR_wins
+XL,balanced,bnb,4,3.301,2.383,4.208,4
+XL,balanced,exh,4,82.9,62.858,109.498,4
+XL,balanced,closure,4,111.901,75.723,170.18,4
+XL,balanced,bnb_expansions(update-level),96,7.482,,,aggregate ratio 4.69; zero-expansion updates 34/96
+XL,cost_dominated,bnb,4,2.328,1.687,2.975,4
+XL,cost_dominated,exh,4,88.103,66.102,105.68,4
+XL,cost_dominated,closure,4,98.951,83.602,123.536,4
+XL,cost_dominated,bnb_expansions(update-level),96,5.023,,,aggregate ratio 2.69; zero-expansion updates 34/96
+XL,all,bnb,8,2.66,2.24,3.698,8
+XL,all,exh,8,86.386,66.102,105.68,8
+XL,all,closure,8,104.133,83.602,129.501,8
+XL,all,bnb_expansions(update-level),192,6.381,,,aggregate ratio 3.70; zero-expansion updates 68/192

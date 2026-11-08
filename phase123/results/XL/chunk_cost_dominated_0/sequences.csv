@@ -1,0 +1,2 @@
+tag,n,m,regime,seed,steps,mbr_total_ns,bnb_total_ns,exh_total_ns,closure_total_ns
+XL,24,36,cost_dominated,0,24,146415690,327936929,9678400433,12289700096

@@ -1,0 +1,2 @@
+tag,n,m,regime,seed,steps,mbr_total_ns,bnb_total_ns,exh_total_ns,pomdp_total_ns,closure_total_ns,lazy115_total_ns
+L,20,28,balanced,1,24,39692040,106338124,1728893584,4382411150,3013033559,2807520091

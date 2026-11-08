@@ -1,0 +1,43 @@
+tag,regime,seed,variant,expansions,update_ms
+L,balanced,0,full,1300,50.095641
+L,balanced,0,only_L1_locality,3028,97.596482
+L,balanced,0,only_L2L3_monotone,2495,79.073392
+L,balanced,0,only_L4_singleuse,4684,144.4516
+L,balanced,0,only_L5_replay,4752,145.529805
+L,balanced,0,none(reuse off),4744,143.57077
+L,balanced,0,bnb,4744,135.326379
+L,balanced,1,full,1571,52.412576
+L,balanced,1,only_L1_locality,2491,73.880198
+L,balanced,1,only_L2L3_monotone,2908,87.978506
+L,balanced,1,only_L4_singleuse,3570,113.960388
+L,balanced,1,only_L5_replay,3198,104.31617
+L,balanced,1,none(reuse off),3653,109.67744
+L,balanced,1,bnb,3653,103.222332
+L,balanced,2,full,2532,95.883203
+L,balanced,2,only_L1_locality,6650,220.471865
+L,balanced,2,only_L2L3_monotone,6155,202.500587
+L,balanced,2,only_L4_singleuse,12636,396.78506
+L,balanced,2,only_L5_replay,12302,380.974312
+L,balanced,2,none(reuse off),12713,399.027838
+L,balanced,2,bnb,12713,383.125414
+L,cost_dominated,0,full,2424,74.010391
+L,cost_dominated,0,only_L1_locality,5900,160.760664
+L,cost_dominated,0,only_L2L3_monotone,3212,92.801514
+L,cost_dominated,0,only_L4_singleuse,6786,181.805904
+L,cost_dominated,0,only_L5_replay,7111,192.885286
+L,cost_dominated,0,none(reuse off),7015,188.975969
+L,cost_dominated,0,bnb,7015,184.387279
+L,cost_dominated,1,full,6392,195.401011
+L,cost_dominated,1,only_L1_locality,11120,334.505566
+L,cost_dominated,1,only_L2L3_monotone,8578,258.385397
+L,cost_dominated,1,only_L4_singleuse,12036,359.782063
+L,cost_dominated,1,only_L5_replay,12744,377.68014
+L,cost_dominated,1,none(reuse off),12938,380.942645
+L,cost_dominated,1,bnb,12938,372.597016
+L,cost_dominated,2,full,3203,98.830344
+L,cost_dominated,2,only_L1_locality,8996,237.59367
+L,cost_dominated,2,only_L2L3_monotone,4885,132.942322
+L,cost_dominated,2,only_L4_singleuse,9014,231.590469
+L,cost_dominated,2,only_L5_replay,8593,221.698638
+L,cost_dominated,2,none(reuse off),9720,249.230829
+L,cost_dominated,2,bnb,9720,244.037268

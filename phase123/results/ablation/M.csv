@@ -1,0 +1,109 @@
+tag,regime,seed,variant,expansions,update_ms
+M,balanced,0,full,635,21.835917
+M,balanced,0,noL1_locality,1379,37.53792
+M,balanced,0,noL2_monoLB,743,23.62892
+M,balanced,0,noL3_untouched,722,45.270681
+M,balanced,0,noL4_singleuse,633,20.909216
+M,balanced,0,noL5_replayUB,644,21.697043
+M,balanced,0,noL6_temporal,667,21.088542
+M,balanced,0,none(reuse off),2186,57.870853
+M,balanced,0,bnb,2186,59.906065
+M,balanced,1,full,1357,39.6831
+M,balanced,1,noL1_locality,2715,67.522022
+M,balanced,1,noL2_monoLB,1602,43.888071
+M,balanced,1,noL3_untouched,1459,40.704558
+M,balanced,1,noL4_singleuse,1415,39.342908
+M,balanced,1,noL5_replayUB,1536,42.095918
+M,balanced,1,noL6_temporal,1582,41.151698
+M,balanced,1,none(reuse off),4381,101.663755
+M,balanced,1,bnb,4381,103.534501
+M,balanced,2,full,2146,60.985957
+M,balanced,2,noL1_locality,3762,91.436442
+M,balanced,2,noL2_monoLB,2505,68.227629
+M,balanced,2,noL3_untouched,2288,62.439145
+M,balanced,2,noL4_singleuse,2146,59.71942
+M,balanced,2,noL5_replayUB,3139,84.183066
+M,balanced,2,noL6_temporal,2277,59.499907
+M,balanced,2,none(reuse off),6239,146.999428
+M,balanced,2,bnb,6239,146.174699
+M,balanced,3,full,1026,31.486696
+M,balanced,3,noL1_locality,1745,46.194934
+M,balanced,3,noL2_monoLB,1337,38.704417
+M,balanced,3,noL3_untouched,1076,31.888831
+M,balanced,3,noL4_singleuse,1042,31.308139
+M,balanced,3,noL5_replayUB,1036,31.121746
+M,balanced,3,noL6_temporal,1003,29.927524
+M,balanced,3,none(reuse off),3004,74.203465
+M,balanced,3,bnb,3004,74.507957
+M,balanced,4,full,741,25.203609
+M,balanced,4,noL1_locality,1669,44.74692
+M,balanced,4,noL2_monoLB,889,27.807393
+M,balanced,4,noL3_untouched,917,27.711998
+M,balanced,4,noL4_singleuse,780,25.549031
+M,balanced,4,noL5_replayUB,826,26.894912
+M,balanced,4,noL6_temporal,857,26.310882
+M,balanced,4,none(reuse off),3981,98.8902
+M,balanced,4,bnb,3981,97.028743
+M,balanced,5,full,575,21.206083
+M,balanced,5,noL1_locality,985,30.035347
+M,balanced,5,noL2_monoLB,883,27.99707
+M,balanced,5,noL3_untouched,694,23.402506
+M,balanced,5,noL4_singleuse,618,21.577985
+M,balanced,5,noL5_replayUB,604,21.113803
+M,balanced,5,noL6_temporal,587,20.451061
+M,balanced,5,none(reuse off),2440,64.169365
+M,balanced,5,bnb,2440,63.20235
+M,cost_dominated,0,full,959,32.565839
+M,cost_dominated,0,noL1_locality,1074,34.166123
+M,cost_dominated,0,noL2_monoLB,1087,34.70552
+M,cost_dominated,0,noL3_untouched,1043,33.927136
+M,cost_dominated,0,noL4_singleuse,981,32.658267
+M,cost_dominated,0,noL5_replayUB,980,32.667761
+M,cost_dominated,0,noL6_temporal,986,34.422205
+M,cost_dominated,0,none(reuse off),1892,54.94723
+M,cost_dominated,0,bnb,1892,54.829258
+M,cost_dominated,1,full,2467,95.931502
+M,cost_dominated,1,noL1_locality,3337,111.545651
+M,cost_dominated,1,noL2_monoLB,2841,102.528789
+M,cost_dominated,1,noL3_untouched,2681,94.403807
+M,cost_dominated,1,noL4_singleuse,2678,99.49409
+M,cost_dominated,1,noL5_replayUB,2474,84.907988
+M,cost_dominated,1,noL6_temporal,2695,78.601065
+M,cost_dominated,1,none(reuse off),6513,212.289446
+M,cost_dominated,1,bnb,6513,217.910079
+M,cost_dominated,2,full,1015,33.158183
+M,cost_dominated,2,noL1_locality,1121,40.819885
+M,cost_dominated,2,noL2_monoLB,1394,42.339163
+M,cost_dominated,2,noL3_untouched,1157,35.54001
+M,cost_dominated,2,noL4_singleuse,1059,33.44637
+M,cost_dominated,2,noL5_replayUB,1004,32.631446
+M,cost_dominated,2,noL6_temporal,1098,35.184683
+M,cost_dominated,2,none(reuse off),3419,87.407026
+M,cost_dominated,2,bnb,3419,86.819528
+M,cost_dominated,3,full,1550,43.270539
+M,cost_dominated,3,noL1_locality,2124,55.883425
+M,cost_dominated,3,noL2_monoLB,2013,55.393424
+M,cost_dominated,3,noL3_untouched,1784,47.039205
+M,cost_dominated,3,noL4_singleuse,1601,43.320808
+M,cost_dominated,3,noL5_replayUB,1715,46.527884
+M,cost_dominated,3,noL6_temporal,1785,44.642776
+M,cost_dominated,3,none(reuse off),4398,108.097504
+M,cost_dominated,3,bnb,4398,105.469019
+M,cost_dominated,4,full,1614,47.163618
+M,cost_dominated,4,noL1_locality,1764,49.853916
+M,cost_dominated,4,noL2_monoLB,2016,56.66621
+M,cost_dominated,4,noL3_untouched,1726,49.289115
+M,cost_dominated,4,noL4_singleuse,1744,48.783507
+M,cost_dominated,4,noL5_replayUB,1586,45.517111
+M,cost_dominated,4,noL6_temporal,1657,45.358845
+M,cost_dominated,4,none(reuse off),3833,99.835513
+M,cost_dominated,4,bnb,3833,98.896967
+M,cost_dominated,5,full,1072,35.208864
+M,cost_dominated,5,noL1_locality,1556,44.948064
+M,cost_dominated,5,noL2_monoLB,1307,40.810748
+M,cost_dominated,5,noL3_untouched,1193,37.524423
+M,cost_dominated,5,noL4_singleuse,1186,37.402394
+M,cost_dominated,5,noL5_replayUB,1177,37.648919
+M,cost_dominated,5,noL6_temporal,1125,33.879621
+M,cost_dominated,5,none(reuse off),4323,108.746244
+M,cost_dominated,5,bnb,4323,108.711215
