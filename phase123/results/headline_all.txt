@@ -1,0 +1,38 @@
+S all            bnb                          1.91 [1.518,2.126] 12 / 12
+S all            exh                          6.643 [5.851,7.602] 12 / 12
+S all            pomdp                        6.492 [5.603,7.584] 12 / 12
+S all            fresh121                     16.249 [15.038,20.09] 12 / 12
+S all            closure                      8.047 [6.795,9.845] 12 / 12
+S all            lazy115                      7.488 [6.4,9.149] 12 / 12
+S all            bnb_expansions(update-level) 3.357 [,] aggregate ratio 2.87; zero-expansion updates 91/288 / 288
+M all            bnb                          2.249 [2.005,2.649] 12 / 12
+M all            exh                          17.569 [16.348,21.149] 12 / 12
+M all            pomdp                        19.412 [17.325,22.573] 12 / 12
+M all            fresh121                     50.126 [45.4,56.716] 12 / 12
+M all            closure                      22.841 [20.393,25.021] 12 / 12
+M all            lazy115                      21.939 [19.562,24.386] 12 / 12
+M all            bnb_expansions(update-level) 4.292 [,] aggregate ratio 3.27; zero-expansion updates 108/288 / 288
+L all            bnb                          2.631 [2.282,3.004] 10 / 10
+L all            exh                          34.369 [21.683,41.382] 10 / 10
+L all            pomdp                        64.328 [42.586,98.831] 10 / 10
+L all            closure                      38.298 [23.061,62.452] 10 / 10
+L all            lazy115                      38.381 [22.879,60.327] 10 / 10
+L all            bnb_expansions(update-level) 6.521 [,] aggregate ratio 3.73; zero-expansion updates 94/240 / 240
+XL all            bnb                          2.66 [2.24,3.698] 8 / 8
+XL all            exh                          86.386 [66.102,105.68] 8 / 8
+XL all            closure                      104.133 [83.602,129.501] 8 / 8
+XL all            bnb_expansions(update-level) 6.381 [,] aggregate ratio 3.70; zero-expansion updates 68/192 / 192
+XXL all            bnb                          2.782 [2.327,3.342] 6 / 6
+XXL all            exh                          137.803 [105.014,333.727] 6 / 6
+XXL all            bnb_expansions(update-level) 7.858 [,] aggregate ratio 3.41; zero-expansion updates 49/144 / 144
+XXXL all            bnb                          2.825 [2.373,3.48] 8 / 8
+XXXL all            bnb_expansions(update-level) 11.854 [,] aggregate ratio 3.41; zero-expansion updates 80/192 / 192
+LH all            bnbH                         2.17 [1.946,2.817] 10 / 10
+LH all            mbr                          0.729 [0.715,0.831] 1 / 10
+LH all            bnb                          1.942 [1.559,2.268] 10 / 10
+LH all            exh                          20.058 [13.291,37.896] 10 / 10
+LH all            bnbH_expansions(update-level) 4.479 [,] aggregate ratio 2.88; zero-expansion updates 82/240 / 240
+XLH all            bnbH                         3.279 [2.565,4.292] 4 / 4
+XLH all            mbr                          0.773 [0.699,0.933] 0 / 4
+XLH all            bnb                          2.583 [1.821,3.416] 4 / 4
+XLH all            bnbH_expansions(update-level) 7.56 [,] aggregate ratio 4.73; zero-expansion updates 34/96 / 96
